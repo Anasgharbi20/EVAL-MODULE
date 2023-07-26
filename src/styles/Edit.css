@@ -1,0 +1,10 @@
+.generator{
+padding: 125px;
+margin: 0;
+display: flex;
+min-width: 320px;
+min-height: 100vh;
+flex-direction: column;
+align-items: center;
+
+}
